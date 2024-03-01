@@ -1,0 +1,20 @@
+h1 {font-size: 200%;
+    color: blueviolet;
+    text-align: center;}
+
+    h1 {
+            font-family: "Jacquarda Bastarda 9", serif;
+            font-weight: 400;
+            font-style: normal;
+          }
+        h1 {border-style: solid;
+        border-color: black;
+    border-width: 5px;}
+
+    h3{
+        font-family: "Jacquarda Bastarda 9", serif;
+        font-weight: 400;
+        font-style: normal; }
+
+        h1 {padding-left: 5%;}
+      
